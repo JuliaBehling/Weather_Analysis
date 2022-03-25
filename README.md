@@ -19,3 +19,4 @@ By comparing these queries spaced out by 6 months apart, we can conclude tempera
 
 * Precipitation patterns throughout the year should also be considered.
 * Accuracy of the weather station would additionally be important. Being so many stations, I would take the average of several stations to get a better understanding of the overall weather pattern throughout the entire island. 
+
